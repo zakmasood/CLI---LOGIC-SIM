@@ -5,7 +5,7 @@ Based off of the fantastic Digital logic simulator by Sebastian Lague and my
 general knowledge.
 
 Current gates: [ AND, NOT, OR, XOR, NAND, NOR ]
-Plans - Add different customizable modules and gates such as:
+<br>Plans - Add different customizable modules and gates such as:</br>
 <br>-- HDD / SDD</br>
 -- Clock
 <br>-- Some other things</br>
